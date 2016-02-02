@@ -1,7 +1,7 @@
 # akamai_rules_backup
 Utilizing Akamai's {OPEN} PAPI api to backup properties' configs
 
-For more details refer to https://github.com/akamai-open/api-kickstart
+For more details refer to https://github.com/akamai-open/api-kickstart && https://developer.akamai.com/api/luna/papi/reference.html
 
 Requirements:
 cffi==1.3.0
